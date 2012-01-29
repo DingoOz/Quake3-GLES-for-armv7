@@ -1,0 +1,10 @@
+Date:  29 Jan 2012
+Author:  DingoOz
+
+Kick off of the a port of the ioQuake3 code base to run on OMAP (BeagleBoard and PandaBoard) hardware.
+
+OMAP hardware incorporates a SGX graphics driver which supports OPenGL ES 1.1 and 2.0, not Open GL.
+
+This port is focused on allowing ioQuake3 code to use the Open GL 2.0 code.
+
+
