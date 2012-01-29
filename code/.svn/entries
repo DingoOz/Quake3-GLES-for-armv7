@@ -1,0 +1,91 @@
+10
+
+dir
+1946
+svn://svn.icculus.org/quake3/trunk/code
+svn://svn.icculus.org/quake3
+
+
+
+2011-04-19T13:26:15.124624Z
+1946
+thilo
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+edf5b092-35ff-0310-97b2-ce42778d08ea
+
+asm
+dir
+
+q3_ui
+dir
+
+sdl
+dir
+
+SDL12
+dir
+
+libs
+dir
+
+AL
+dir
+
+libcurl
+dir
+
+jpeg-8c
+dir
+
+zlib
+dir
+
+tools
+dir
+
+server
+dir
+
+renderer
+dir
+
+game
+dir
+
+qcommon
+dir
+
+null
+dir
+
+libspeex
+dir
+
+botlib
+dir
+
+cgame
+dir
+
+ui
+dir
+
+client
+dir
+
+sys
+dir
+
